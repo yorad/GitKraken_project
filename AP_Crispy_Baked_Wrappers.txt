@@ -2,7 +2,11 @@ Crispy Baked Wrapper Appetizer
 
 Menu Class: Appetizers
 
+<<<<<<< HEAD
 RECIPE BY ME JOON DAROY
+=======
+Recipe By Joon Daroy
+>>>>>>> without_rebase
 
 Description:
 Baked wonton wrappers filled with cheesy sausage. This is perfect for parties.
